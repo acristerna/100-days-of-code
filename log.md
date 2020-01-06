@@ -3,10 +3,10 @@
 ### Day 1: January 1 - 4th, 2020 
 
 **Today's Progress**: 
-Beginning this journey, I did not document the first few days. That said, in this time I worked on getting started with The Odin Project. My goal is to Project: Etch-a-Sketch by Wednesday 1/8 
+Beginning this journey, I did not document the first few days. That said, in this time, I worked on getting started with The Odin Project. My goal is to finish project: Etch-a-Sketch by Wednesday 1/8. 
 
 **Thoughts:** 
-I am excited to start this journey and really challenging myself to learn more every day. 
+I am excited to start this journey and really challenging myself to learn more every day. My goal is to finish The Odin Project and start working on creating my personal website.
 
 **Link to work:** 
 https://www.theodinproject.com/courses/web-development-101

@@ -11,8 +11,7 @@ January 1st, 2020.
 2. If I code at work, that time won't count towards the challenge.
 3. I will push code to GitHub as much as possible so that anyone can see my progress.
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
-// I will be using The Odin Project as a guide during this time but will eventually be moving to creating my own website.
+5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md)) I will be using The Odin Project as a guide during this time but will eventually be moving to working on creating my own website.
 
 
 ## Ideas to make this challenge more effective
