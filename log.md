@@ -51,4 +51,13 @@ Wow, I am excited again. While I learned a lot in school, I am sooooo happy to b
 **Link to work:** 
 https://github.com/acristerna/Web-Developer-Bootcamp/commit/30f848a3843943f1719187e4aa69a74f010023b8
 
+### Day 3: May 14th, 2020
 
+**Today's Progress**: 
+Worked for a about an hour and a half on the Udemy course The Complete 2020 Web Development Bootcamp. I continued Intermediate Bootstrap section learning about Bootstrap Carousel, Cards, and CSS Stacking Order. 
+
+**Thoughts:** 
+Today was a little rough just because it is the end of the week for me at work so I was feeling a little tired. I also found out that they are extending our WFH order due to Coronavirus until October. This news definitely shook me up a bit because I miss going into the office and seeing my coworkers. I miss colaborating with my team and was hoping to have that again sooner than October. Sigh... 2020 is cancelled. That said, since it is my weekend, I am off tomorrow and Saturday. I also took Sunday off so this is the start of my 3 day weekend. Yay! I plan to jump into a different course tomorrow to learn something else, might take a look at some of the SOLID principle courses on Udemy. 
+
+**Link to work:** 
+https://github.com/acristerna/Web-Developer-Bootcamp/commit/97453562f1c479b5ac3a6e7229256ae95131e212
