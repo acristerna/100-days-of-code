@@ -43,3 +43,14 @@ Today, I just worked for a little over an hour to make sure to get in my day of 
 
 **Link to work:** 
 https://github.com/acristerna/Web-Developer-Bootcamp/commit/59f9fbb0e8bdf2a478f1bf5e8fd75058e4d292f8
+
+### Day 5: May 16th, 2020
+
+**Today's Progress**: 
+Worked for a about an hour and a half on Udemy course The Complete 2020 Web Development Bootcamp. I continued Intermediate Bootstrap section learning about refactoring and how to best combine CSS selectors. Only have a couple of sub-sections left and then there is a mini section on UX/UI before moving to JavaScript! :)
+
+**Thoughts:** 
+I worked for a little bit on the Web Dev course and still plan to look at SOLID principles later tonight. I just wanted to get in a little bit more time before changing to the other course. 
+
+**Link to work:** 
+https://github.com/acristerna/Web-Developer-Bootcamp/commit/1c343df6df7236f79b97bd918a111aa4d8ebf604
