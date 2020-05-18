@@ -54,3 +54,14 @@ I worked for a little bit on the Web Dev course and still plan to look at SOLID 
 
 **Link to work:** 
 https://github.com/acristerna/Web-Developer-Bootcamp/commit/1c343df6df7236f79b97bd918a111aa4d8ebf604
+
+### Day 6: May 17th, 2020
+
+**Today's Progress**: 
+Worked for a about a half hour on Udemy course The Complete 2020 Web Development Bootcamp and finished the Intermediate Bootstrap Section. Next, I will be starting a mini section on UX/UI. I then started two other Udemy courses on SOLID Principles, one called, "Using SOLID Principles to Write Better Code - A Crash Course" and the other, "SOLID Principles: Introducing Software Architecture & Design". For both, I started with Single Responsibility Principle (SRP). Total time today was about 3.5 hours. 
+
+**Thoughts:** 
+I really enjoyed today's time. I think finishing a Udemy section of the big web dev course is nice motivation and I am excited to start the Javascript section. I previously learned about SRP in school but did feel like I learned a new perspective on it, as well as have a better understanding of the concept. I also want to share what I am learning on my coding Instagram, so I started working on some post content in AdobeXD. It has been a second since I have used XD but it was nice to jump back into design again. 
+
+**Link to work:** 
+https://github.com/acristerna/Web-Developer-Bootcamp/commit/c6bf1217500d5047c3f1cb06877d0faae55dbc6b
