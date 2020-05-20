@@ -65,3 +65,26 @@ I really enjoyed today's time. I think finishing a Udemy section of the big web 
 
 **Link to work:** 
 https://github.com/acristerna/Web-Developer-Bootcamp/commit/c6bf1217500d5047c3f1cb06877d0faae55dbc6b
+
+### Day 7: May 18th, 2020
+
+**Today's Progress**: 
+Worked for a little over an hour on the Udemy course The Complete 2020 Web Development Bootcamp and finished the UI/UX section.
+
+**Thoughts:** 
+Today's thoughts are a little simple. I am just happy to finish another section of the course. There wasn't much coding to this section so nothing really for me to push. Going to pick up the Javascript section tomorrow though! Yay!
+**Link to work:** 
+
+### Day 8: May 19th, 2020
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+
+
+
