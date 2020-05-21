@@ -73,17 +73,28 @@ Worked for a little over an hour on the Udemy course The Complete 2020 Web Devel
 
 **Thoughts:** 
 Today's thoughts are a little simple. I am just happy to finish another section of the course. There wasn't much coding to this section so nothing really for me to push. Going to pick up the Javascript section tomorrow though! Yay!
+
 **Link to work:** 
 
 ### Day 8: May 19th, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Started the Javascript section of the Udemy course The Complete 2020 Web Development Bootcamp and worked for about 2 hours on it. I learned about Javascript variables, data types, and naming conventions. 
 
 **Thoughts:** 
+It is interesting learning certain things in this course, like variables for Javascript, because I have already learned Java in school. What I mean by that is that programming languages are all kind of similar. Don't get me wrong Java and Javascript are really different, I just mean that I feel familiar with some of it. When I first started programming, I would always hear, "Once you know one language, you can learn any other." I think I am finally getting to that point where I feel confident in that saying. I think knowing Java will definitely help me learn some of this web dev stuff faster, and probably will even be beneficial for when I start the Ruby on Rails course too. 
 
 **Link to work:** 
+Today, we just practices some small Javascript exercises so nothing to push again today. 
 
+### Day 9: May 20th, 2020
 
+**Today's Progress**: Started the Javascript section of the Udemy course The Complete 2020 Web Development Bootcamp and worked for about 2 hours on it. I learned about Javascript variables, data types, and naming conventions. 
+
+**Thoughts:** 
+It is interesting learning certain things in this course, like variables for Javascript, because I have already learned Java in school. What I mean by that is that programming languages are all kind of similar. Don't get me wrong Java and Javascript are really different, I just mean that I feel familiar with some of it. When I first started programming, I would always hear, "Once you know one language, you can learn any other." I think I am finally getting to that point where I feel confident in that saying. I think knowing Java will definitely help me learn some of this web dev stuff faster, and probably will even be beneficial for when I start the Ruby on Rails course too. 
+
+**Link to work:** 
+Today, we just practices some small Javascript exercises so nothing to push again today. 
 
 
 
