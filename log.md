@@ -107,12 +107,13 @@ https://github.com/acristerna/Web-Developer-Bootcamp/commit/bc364f94780b946b2bf6
  
  ### Day 11: May 22nd, 2020
 
-**Today's Progress**: 1 hour so far
+**Today's Progress**: Continued the Javascript section of the Udemy course The Complete 2020 Web Development Bootcamp and worked for about two hours on it. I learned about creating and calling functions and did a few small assignments working with the Standford's Karel IDE which works by given commands to a robot. 
 
 **Thoughts:** 
-
+I had a lot of fun today. These were simple fuctions and I defintely understood the material. I am excited to learn more and finishing up the basic Javascript section of the course. 
 
 **Link to work:** 
+https://github.com/acristerna/Web-Developer-Bootcamp/commit/133009b0b2f1ee93cd3ed47d849de6165bca2cd0
 
 ### Day 12: May 23rd, 2020
 
