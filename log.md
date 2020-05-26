@@ -84,18 +84,58 @@ Today's thoughts are a little simple. I am just happy to finish another section 
 It is interesting learning certain things in this course, like variables for Javascript, because I have already learned Java in school. What I mean by that is that programming languages are all kind of similar. Don't get me wrong Java and Javascript are really different, I just mean that I feel familiar with some of it. When I first started programming, I would always hear, "Once you know one language, you can learn any other." I think I am finally getting to that point where I feel confident in that saying. I think knowing Java will definitely help me learn some of this web dev stuff faster, and probably will even be beneficial for when I start the Ruby on Rails course too. 
 
 **Link to work:** 
-Today, we just practices some small Javascript exercises so nothing to push again today. 
+Today, we just practiced some small Javascript exercises so nothing to push again today. 
 
 ### Day 9: May 20th, 2020
 
-**Today's Progress**: Started the Javascript section of the Udemy course The Complete 2020 Web Development Bootcamp and worked for about 2 hours on it. I learned about Javascript variables, data types, and naming conventions. 
+**Today's Progress**: Continued the Javascript section of the Udemy course The Complete 2020 Web Development Bootcamp and worked for about an hour on it. I learned about about Javascript String concatenation, length, and retrieving the number of characters.
 
 **Thoughts:** 
-It is interesting learning certain things in this course, like variables for Javascript, because I have already learned Java in school. What I mean by that is that programming languages are all kind of similar. Don't get me wrong Java and Javascript are really different, I just mean that I feel familiar with some of it. When I first started programming, I would always hear, "Once you know one language, you can learn any other." I think I am finally getting to that point where I feel confident in that saying. I think knowing Java will definitely help me learn some of this web dev stuff faster, and probably will even be beneficial for when I start the Ruby on Rails course too. 
+It has been a little difficult with all of the Coronavirus stuff to make sure that I am adding these logs everyday but I have maintained my 1 hour a day. Since I work nights, I usually code after I get off so the dates might be a little off.
+
+**Link to work:**  Just taking in the course and doing small amounts of JS code, so once again no code pushes for today. 
+ 
+### Day 10: May 21st, 2020
+
+**Today's Progress**:  Continued the Javascript section of the Udemy course The Complete 2020 Web Development Bootcamp and worked for about another hour on it. I learned about about Javascript String slicing and extracting, changing String casing, and working through basic arithmetic. 
+
+**Thoughts:** 
+I am excited about incorporating JS into new projects. Today was a little rouugh again, we are thinking about heading to MI for a little to get out of the city. Trying to find little things to keep me motivated during this time. I bought some wall art to put up above my desk and they are bringing me joy. 
+
+**Link to work:** Small exercises but decided to create a running JS file of them so I can push something. I missed a few of the earlier ones but added some of the String and math practices. 
+https://github.com/acristerna/Web-Developer-Bootcamp/commit/bc364f94780b946b2bf6fd3d2646bbba3193b783
+ 
+ ### Day 11: May 22nd, 2020
+
+**Today's Progress**: 1 hour so far
+
+**Thoughts:** 
+
 
 **Link to work:** 
-Today, we just practices some small Javascript exercises so nothing to push again today. 
 
+### Day 12: May 23rd, 2020
 
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 13: May 24th, 2020
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 14: May 25th, 2020
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
 
 
