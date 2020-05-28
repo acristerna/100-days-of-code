@@ -117,11 +117,13 @@ https://github.com/acristerna/Web-Developer-Bootcamp/commit/133009b0b2f1ee93cd3e
 
 ### Day 12: May 23rd, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Woot Woot! Completed the beginning level of the Javascript section for The Complete 2020 Web Development Bootcamp and worked for about two hours on it. I learned about passing parameters, arguments, and output and returns. We also had two coding challanges for creaing a BMI calculate and functions quiz. 
 
 **Thoughts:** 
+I am excited that I got through another section, I can't wait to jump into the intermediate section. I just want to start putting everything I have leaned all together.
 
 **Link to work:** 
+https://github.com/acristerna/Web-Developer-Bootcamp/commit/fdc56b3eefe74f764f2aaacd1fb68b25eb954f28
 
 ### Day 13: May 24th, 2020
 
@@ -132,6 +134,14 @@ https://github.com/acristerna/Web-Developer-Bootcamp/commit/133009b0b2f1ee93cd3e
 **Link to work:** 
 
 ### Day 14: May 25th, 2020
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 15: May 26th, 2020
 
 **Today's Progress**: 
 
