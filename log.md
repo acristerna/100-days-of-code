@@ -127,11 +127,12 @@ https://github.com/acristerna/Web-Developer-Bootcamp/commit/fdc56b3eefe74f764f2a
 
 ### Day 13: May 24th, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Started the Intermediate Javascript section of the The Complete 2020 Web Development Bootcamp and worked for about two hours on it. This included going over generating random numbers using the Math.random function and then building a love compatibility generator based off of a random percentage. I also worked through Control statements using if and if else. I learned the different comparator and how to tell the different between == and ===. We also had two coding challenges, one for a BMI calulator update and another on how to create a function that can tell whether a year is leap or not. 
 
-**Thoughts:** 
+**Thoughts:** I think it is because it is late but I was struggling with the logic on the leap year function. Once I took a second to think about it and look at the flow chart, I was able to figure it out though. The next section jumps into Arrays and I am excited about that because I definitely think I understand Arrays well. 
 
 **Link to work:** 
+https://github.com/acristerna/Web-Developer-Bootcamp/commit/49fb78e0b7c79b98505436c05fb935f95f6fb3a8
 
 ### Day 14: May 25th, 2020
 
