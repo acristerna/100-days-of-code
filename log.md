@@ -136,11 +136,12 @@ https://github.com/acristerna/Web-Developer-Bootcamp/commit/49fb78e0b7c79b985054
 
 ### Day 14: May 25th, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Worked for 2 hours on the Intermediate Javascript section of the The Complete 2020 Web Development Bootcamp. I am almost done with this section and will probably finish it up tomorrow. 
 
-**Thoughts:** 
+**Thoughts:** Another day bites the dust. Just keeping and moving. 
 
 **Link to work:** 
+https://github.com/acristerna/Web-Developer-Bootcamp/commit/7a0253be12b569137d6b21091d6847224f423369
 
 ### Day 15: May 26th, 2020
 
@@ -150,4 +151,19 @@ https://github.com/acristerna/Web-Developer-Bootcamp/commit/49fb78e0b7c79b985054
 
 **Link to work:** 
 
+### Day 16: May 27th, 2020
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 17: May 28th, 2020
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
 
