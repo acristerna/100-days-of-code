@@ -145,11 +145,12 @@ https://github.com/acristerna/Web-Developer-Bootcamp/commit/7a0253be12b569137d6b
 
 ### Day 15: May 26th, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Worked for an hour on the Intermediate Javascript section of the The Complete 2020 Web Development Bootcamp and finished it! The biggest part of this hour was spent working out a function to run the Fibonacci sequence. 
 
-**Thoughts:** 
+**Thoughts:** Not gonna lie, I fell behing a couple of days, but I am not going to start over because the world is healing right now and finding any type of motivation outside of work or school is quite a feat. Currently, there are protests and riots happening  all over the country due to the murder of George Floyd. It is hard to not be on social media and a bit difficult to remain focused on anything. This weekend though, my partner and I spent some quality time together. That meant that coding took a bit of break, but now I am back and ready to rock and roll. I plan on catching up over the next couple of days and finishing at least 3 more sections. Tomorrow, I start the DOM (Document Object Model) section!
 
 **Link to work:** 
+https://github.com/acristerna/Web-Developer-Bootcamp/commit/1f924942bd610774d032009185343039e2ccf0e5
 
 ### Day 16: May 27th, 2020
 
@@ -167,3 +168,18 @@ https://github.com/acristerna/Web-Developer-Bootcamp/commit/7a0253be12b569137d6b
 
 **Link to work:** 
 
+### Day 18: May 29th, 2020
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 18: May 30th, 2020
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
