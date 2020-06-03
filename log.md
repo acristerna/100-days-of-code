@@ -154,11 +154,11 @@ https://github.com/acristerna/Web-Developer-Bootcamp/commit/1f924942bd610774d032
 
 ### Day 16: May 27th, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Worked for an hour and a half finished the DOM section of the The Complete 2020 Web Development Bootcamp! The biggest part of this hour was going over different parts of DOM, including selecting HTML elements with JS, manipulating styles, learning about separation of concerns, text manipulation, and manipulating HTML element attributes.
 
-**Thoughts:** 
+**Thoughts:** Another rough day with everything going on in the world but happy to be coding. It give me a break from social media and makes me feel good. Learning DOM was cool, I am excited to start building more functional websites. Next section is called Boss Level Challenge -- The Dicee Game, sounds fun. 
 
-**Link to work:** 
+**Link to work:** No link to work as most was done within developer tools and the console. 
 
 ### Day 17: May 28th, 2020
 
