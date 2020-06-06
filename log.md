@@ -154,7 +154,7 @@ https://github.com/acristerna/Web-Developer-Bootcamp/commit/1f924942bd610774d032
 
 ### Day 16: May 27th, 2020
 
-**Today's Progress**: Worked for an hour and a half finished the DOM section of the The Complete 2020 Web Development Bootcamp! The biggest part of this hour was going over different parts of DOM, including selecting HTML elements with JS, manipulating styles, learning about separation of concerns, text manipulation, and manipulating HTML element attributes.
+**Today's Progress**: Worked for an hour and a half finished the DOM section of The Complete 2020 Web Development Bootcamp! The biggest part of this hour was going over different parts of DOM, including selecting HTML elements with JS, manipulating styles, learning about separation of concerns, text manipulation, and manipulating HTML element attributes.
 
 **Thoughts:** Another rough day with everything going on in the world but happy to be coding. It give me a break from social media and makes me feel good. Learning DOM was cool, I am excited to start building more functional websites. Next section is called Boss Level Challenge -- The Dicee Game, sounds fun. 
 
@@ -162,11 +162,12 @@ https://github.com/acristerna/Web-Developer-Bootcamp/commit/1f924942bd610774d032
 
 ### Day 17: May 28th, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Today I finished the Dicee Project of The Complete 2020 Web Development Bootcamp, took about an hour to go over all the sections. This project was a summary of what I had learned in the past sections and using DOM to make changes on the website. 
 
-**Thoughts:** 
+**Thoughts:** This was a fun project. I liked that it was a game of sorts and did push me to have to remember certain aspects of the last section. I didn't realize but I took a missed a few days since last getting on so I really need to catch up. Planning to try to catch up to the current date by the end of the weekend. 
 
 **Link to work:** 
+https://github.com/acristerna/Web-Developer-Bootcamp/tree/master/Dicee%20Challenge
 
 ### Day 18: May 29th, 2020
 
